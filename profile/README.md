@@ -8,6 +8,10 @@
   <h3>Seriously unserious projects.</h3>
 
   <p>
+    All projects are made entirely by AI. 
+  </p>
+
+  <p>
    <a href="https://github.com/kkoreng">@kkoreng</a>
   </p>
 </div>
