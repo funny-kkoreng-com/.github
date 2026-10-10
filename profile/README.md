@@ -6,4 +6,8 @@
   </h1>
 
   <h3>Seriously unserious projects.</h3>
+
+  <p>
+   <a href="https://github.com/kkoreng">@kkoreng</a>
+  </p>
 </div>
